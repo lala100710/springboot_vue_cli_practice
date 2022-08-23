@@ -2,10 +2,12 @@
 
  利用  mariadb + Spring Data JPA 以及 vue cli 完成 user management 練習
 
-## vue cli 啟動
+## vue cli 設定
 
- 利用 終端機 輸入 npm run serve 指令
-
+### 建立node_modules 資料夾
+利用 終端機 輸入 npm install 指令
+### 啟動vue cli
+利用 終端機 輸入 npm run serve 指令
 ### Local:   http://localhost:8080/
 
 ### Network: http://192.168.20.47:8080/
