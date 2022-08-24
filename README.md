@@ -4,10 +4,21 @@
 
 ## vue cli 設定
 
-### 建立node_modules 資料夾
-利用 終端機 輸入 npm install 指令
+### 建立node_modules 資料夾 
+
+在路徑為 springboot_vue_cli_practice/user_management/fronted 開啟終端機
+
+利用  輸入 npm install 指令
+
+### 下載boostrap modules
+
+npm install --save bootstrap
+npm install @popperjs/core --save
+
 ### 啟動vue cli
+
 利用 終端機 輸入 npm run serve 指令
+
 ### Local:   http://localhost:8080/
 
 ### Network: http://192.168.20.47:8080/
